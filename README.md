@@ -1,4 +1,4 @@
-# Classic-arcade-game
+# Classic Arcade Game Project
 
 ## Instructions
 
